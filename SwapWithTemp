@@ -1,7 +1,7 @@
-import java.util.*;
+import java.util.scanner;
 
 public class SwapWithTemp {
     public static void main(String[] args) {
-     System.out.print("swap");
+     System.out.print("swap them");
     }
 }
